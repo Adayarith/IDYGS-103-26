@@ -426,7 +426,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 022a55a2f5d42af4495584275c173acb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ImpulsoPelota
-  fuerza: 20
+  fuerza: 10
 --- !u!1 &1240213969
 GameObject:
   m_ObjectHideFlags: 0
